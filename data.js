@@ -1,0 +1,19 @@
+const ROSTER=[
+["Scizor",212,"Bug / Steel",1,1],["Indeedee",876,"Psychic / Normal",0,0],["Mudsdale",750,"Ground",1,0],["Dragonite",149,"Dragon / Flying",1,0],["Banette",354,"Ghost",1,1],["Skeledirge",911,"Fire / Ghost",0,0],["Primarina",730,"Water / Fairy",1,0],["Falinks",870,"Fighting",0,0],
+["Froslass",478,"Ice / Ghost",0,0],["Cofagrigus",563,"Ghost",0,0],["Snorlax",143,"Normal",0,0],["Volcarona",637,"Bug / Fire",0,0],["Charizard",6,"Fire / Flying",0,1],["Kangaskhan",115,"Normal",0,1],["Camerupt",323,"Fire / Ground",0,1],["Meganium",154,"Grass",0,0],
+["Gardevoir",282,"Psychic / Fairy",0,1],["Skarmory",227,"Steel / Flying",0,0],["Goodra",706,"Dragon",1,0],["Arboliva",930,"Grass / Normal",1,0],["Clefable",36,"Fairy",0,0],["Scrafty",560,"Dark / Fighting",0,1],["Ninetales",38,"Fire",0,0],["Reuniclus",579,"Psychic",0,0],
+["Rillaboom",812,"Grass",0,0],["Farigiraf",981,"Normal / Psychic",0,0],["Grimmsnarl",861,"Dark / Fairy",0,0],["Sylveon",700,"Fairy",0,0],["Salamence",373,"Dragon / Flying",0,1],["Tsareena",763,"Grass",0,0],["Palafin",964,"Water",0,0],["Mimikyu",778,"Ghost / Fairy",0,0],
+["Garchomp",445,"Dragon / Ground",0,1],["Gholdengo",1000,"Steel / Ghost",0,0],["Mawile",303,"Steel / Fairy",0,1],["Milotic",350,"Water",0,0],["Raichu",26,"Electric",0,1],["Hawlucha",701,"Fighting / Flying",0,0],["Altaria",334,"Dragon / Flying",0,1],["Arcanine",59,"Fire",0,0]
+].map(([name,dex,type,andes,mega])=>({name,dex,type,andes:!!andes,mega:!!mega,status:"Owned",sprite:"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/"+dex+".png"}));
+const BUILDS={
+Scizor:{ability:"Technician",nature:"—",ev:"—",item:"—",moves:["Bullet Punch","Double Hit","Breaking Swipe","Aerial Ace"],role:"Immediate pressure / partner protection",notes:"Ready in the wings. Pounce was removed; Breaking Swipe provides the preferred utility."},
+Altaria:{ability:"Cloud Nine",nature:"—",ev:"—",item:"Leftovers",moves:["Tailwind","Will-O-Wisp","Heat Wave","Roost"],role:"Speed control / weather denial / sustain",notes:"Repeated match MVP. Opponents tend to panic in front of it."},
+Palafin:{ability:"Zero to Hero",nature:"Brave",ev:"—",item:"Choice Scarf (tested)",moves:["Flip Turn","Jet Punch","Close Combat","Throat Chop"],role:"Pivot → Hero cleaner",notes:"Rain turns Palafin into an immediate offensive threat."},
+Mawile:{ability:"—",nature:"—",ev:"—",item:"—",moves:["Swords Dance","Baton Pass","Iron Head","Play Rough"],role:"Setup pressure / Mega bait",notes:"Swagger has also been part of the toolkit."},
+Mimikyu:{ability:"Disguise",nature:"—",ev:"—",item:"Bright Powder",moves:["Phantom Force","Burning Jealousy","Play Rough","Taunt"],role:"Disruption / pressure",notes:"Part of the Hydra control shell."},
+Tsareena:{ability:"Queenly Majesty",nature:"—",ev:"—",item:"—",moves:["Helping Hand","Trailblaze","Taunt","High Jump Kick"],role:"Support / priority denial",notes:"Built as the queen of support."},
+Milotic:{ability:"Competitive",nature:"—",ev:"—",item:"Metronome / Leftovers tested",moves:["Scald","Weather Ball","Life Dew","Icy Wind"],role:"Sustain / speed control",notes:"Flexible weather coverage and Competitive pressure."},
+Grimmsnarl:{ability:"Prankster",nature:"—",ev:"—",item:"Light Clay",moves:["Parting Shot","Reflect","Body Slam","Sucker Punch"],role:"Screens / pivot",notes:"Historical Team Stalin utility core."},
+Sylveon:{ability:"Pixilate",nature:"—",ev:"—",item:"Shell Bell",moves:["Hyper Voice","Mystical Fire","Sunny Day","Skill Swap"],role:"Ability manipulation / spread pressure",notes:"Skill Swap was central to the Stalin concept."},
+Charizard:{ability:"Tough Claws (Mega X)",nature:"—",ev:"Bulky mixed",item:"Charizardite X",moves:["Roost","Dragon Claw","Heat Wave","Air Cutter"],role:"Bulky mixed attacker",notes:"Air Cutter was chosen for Dragon Cheer critical-hit synergy with Milotic."}
+};
