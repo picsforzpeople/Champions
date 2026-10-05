@@ -33,7 +33,16 @@ const CHAMPIONS_INFO={
           "Swarm",
           "Technician",
           "Light Metal"
-        ]
+        ],
+        "stats": {
+          "HP": 70,
+          "Attack": 130,
+          "Defense": 100,
+          "Sp. Atk": 55,
+          "Sp. Def": 80,
+          "Speed": 65
+        },
+        "total": 500
       },
       {
         "name": "Mega Scizor",
@@ -43,7 +52,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Technician"
-        ]
+        ],
+        "stats": {
+          "HP": 70,
+          "Attack": 150,
+          "Defense": 140,
+          "Sp. Atk": 65,
+          "Sp. Def": 100,
+          "Speed": 75
+        },
+        "total": 600
       }
     ],
     "checked": "2026-10-05"
@@ -61,7 +79,16 @@ const CHAMPIONS_INFO={
           "Inner Focus",
           "Synchronize",
           "Psychic Surge"
-        ]
+        ],
+        "stats": {
+          "HP": 60,
+          "Attack": 65,
+          "Defense": 55,
+          "Sp. Atk": 105,
+          "Sp. Def": 95,
+          "Speed": 95
+        },
+        "total": 475
       },
       {
         "name": "Indeedee (Female)",
@@ -73,7 +100,16 @@ const CHAMPIONS_INFO={
           "Own Tempo",
           "Synchronize",
           "Psychic Surge"
-        ]
+        ],
+        "stats": {
+          "HP": 70,
+          "Attack": 55,
+          "Defense": 65,
+          "Sp. Atk": 95,
+          "Sp. Def": 105,
+          "Speed": 85
+        },
+        "total": 475
       }
     ],
     "checked": "2026-10-05"
@@ -90,7 +126,16 @@ const CHAMPIONS_INFO={
           "Own Tempo",
           "Stamina",
           "Inner Focus"
-        ]
+        ],
+        "stats": {
+          "HP": 100,
+          "Attack": 125,
+          "Defense": 100,
+          "Sp. Atk": 55,
+          "Sp. Def": 85,
+          "Speed": 35
+        },
+        "total": 500
       }
     ],
     "checked": "2026-10-05"
@@ -107,7 +152,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Inner Focus",
           "Multiscale"
-        ]
+        ],
+        "stats": {
+          "HP": 91,
+          "Attack": 134,
+          "Defense": 95,
+          "Sp. Atk": 100,
+          "Sp. Def": 100,
+          "Speed": 80
+        },
+        "total": 600
       },
       {
         "name": "Mega Dragonite",
@@ -117,7 +171,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Multiscale"
-        ]
+        ],
+        "stats": {
+          "HP": 91,
+          "Attack": 124,
+          "Defense": 115,
+          "Sp. Atk": 145,
+          "Sp. Def": 125,
+          "Speed": 100
+        },
+        "total": 700
       }
     ],
     "checked": "2026-10-05"
@@ -134,7 +197,16 @@ const CHAMPIONS_INFO={
           "Insomnia",
           "Frisk",
           "Cursed Body"
-        ]
+        ],
+        "stats": {
+          "HP": 64,
+          "Attack": 115,
+          "Defense": 65,
+          "Sp. Atk": 83,
+          "Sp. Def": 63,
+          "Speed": 65
+        },
+        "total": 455
       },
       {
         "name": "Mega Banette",
@@ -143,7 +215,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Prankster"
-        ]
+        ],
+        "stats": {
+          "HP": 64,
+          "Attack": 165,
+          "Defense": 75,
+          "Sp. Atk": 93,
+          "Sp. Def": 83,
+          "Speed": 75
+        },
+        "total": 555
       }
     ],
     "checked": "2026-10-05"
@@ -160,7 +241,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Blaze",
           "Unaware"
-        ]
+        ],
+        "stats": {
+          "HP": 104,
+          "Attack": 75,
+          "Defense": 100,
+          "Sp. Atk": 110,
+          "Sp. Def": 75,
+          "Speed": 66
+        },
+        "total": 530
       }
     ],
     "checked": "2026-10-05"
@@ -177,7 +267,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Torrent",
           "Liquid Voice"
-        ]
+        ],
+        "stats": {
+          "HP": 80,
+          "Attack": 74,
+          "Defense": 74,
+          "Sp. Atk": 126,
+          "Sp. Def": 116,
+          "Speed": 60
+        },
+        "total": 530
       }
     ],
     "checked": "2026-10-05"
@@ -193,7 +292,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Battle Armor",
           "Defiant"
-        ]
+        ],
+        "stats": {
+          "HP": 65,
+          "Attack": 100,
+          "Defense": 100,
+          "Sp. Atk": 70,
+          "Sp. Def": 60,
+          "Speed": 75
+        },
+        "total": 470
       },
       {
         "name": "Mega Falinks",
@@ -202,7 +310,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Defiant"
-        ]
+        ],
+        "stats": {
+          "HP": 65,
+          "Attack": 135,
+          "Defense": 135,
+          "Sp. Atk": 70,
+          "Sp. Def": 65,
+          "Speed": 100
+        },
+        "total": 570
       }
     ],
     "checked": "2026-10-05"
@@ -219,7 +336,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Snow Cloak",
           "Cursed Body"
-        ]
+        ],
+        "stats": {
+          "HP": 70,
+          "Attack": 80,
+          "Defense": 70,
+          "Sp. Atk": 80,
+          "Sp. Def": 70,
+          "Speed": 110
+        },
+        "total": 480
       },
       {
         "name": "Mega Froslass",
@@ -229,7 +355,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Snow Warning"
-        ]
+        ],
+        "stats": {
+          "HP": 70,
+          "Attack": 80,
+          "Defense": 70,
+          "Sp. Atk": 140,
+          "Sp. Def": 100,
+          "Speed": 120
+        },
+        "total": 580
       }
     ],
     "checked": "2026-10-05"
@@ -244,7 +379,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Mummy"
-        ]
+        ],
+        "stats": {
+          "HP": 58,
+          "Attack": 50,
+          "Defense": 145,
+          "Sp. Atk": 95,
+          "Sp. Def": 105,
+          "Speed": 30
+        },
+        "total": 483
       }
     ],
     "checked": "2026-10-05"
@@ -261,7 +405,16 @@ const CHAMPIONS_INFO={
           "Immunity",
           "Thick Fat",
           "Gluttony"
-        ]
+        ],
+        "stats": {
+          "HP": 160,
+          "Attack": 110,
+          "Defense": 65,
+          "Sp. Atk": 65,
+          "Sp. Def": 110,
+          "Speed": 30
+        },
+        "total": 540
       }
     ],
     "checked": "2026-10-05"
@@ -278,7 +431,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Flame Body",
           "Swarm"
-        ]
+        ],
+        "stats": {
+          "HP": 85,
+          "Attack": 60,
+          "Defense": 65,
+          "Sp. Atk": 135,
+          "Sp. Def": 105,
+          "Speed": 100
+        },
+        "total": 550
       }
     ],
     "checked": "2026-10-05"
@@ -295,7 +457,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Blaze",
           "Solar Power"
-        ]
+        ],
+        "stats": {
+          "HP": 78,
+          "Attack": 84,
+          "Defense": 78,
+          "Sp. Atk": 109,
+          "Sp. Def": 85,
+          "Speed": 100
+        },
+        "total": 534
       },
       {
         "name": "Mega Charizard X",
@@ -305,7 +476,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Tough Claws"
-        ]
+        ],
+        "stats": {
+          "HP": 78,
+          "Attack": 130,
+          "Defense": 111,
+          "Sp. Atk": 130,
+          "Sp. Def": 85,
+          "Speed": 100
+        },
+        "total": 634
       },
       {
         "name": "Mega Charizard Y",
@@ -315,7 +495,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Drought"
-        ]
+        ],
+        "stats": {
+          "HP": 78,
+          "Attack": 104,
+          "Defense": 78,
+          "Sp. Atk": 159,
+          "Sp. Def": 115,
+          "Speed": 100
+        },
+        "total": 634
       }
     ],
     "checked": "2026-10-05"
@@ -332,7 +521,16 @@ const CHAMPIONS_INFO={
           "Early Bird",
           "Scrappy",
           "Inner Focus"
-        ]
+        ],
+        "stats": {
+          "HP": 105,
+          "Attack": 95,
+          "Defense": 80,
+          "Sp. Atk": 40,
+          "Sp. Def": 80,
+          "Speed": 90
+        },
+        "total": 490
       },
       {
         "name": "Mega Kangaskhan",
@@ -341,7 +539,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Parental Bond"
-        ]
+        ],
+        "stats": {
+          "HP": 105,
+          "Attack": 125,
+          "Defense": 100,
+          "Sp. Atk": 60,
+          "Sp. Def": 100,
+          "Speed": 100
+        },
+        "total": 590
       }
     ],
     "checked": "2026-10-05"
@@ -359,7 +566,16 @@ const CHAMPIONS_INFO={
           "Magma Armor",
           "Solid Rock",
           "Anger Point"
-        ]
+        ],
+        "stats": {
+          "HP": 70,
+          "Attack": 100,
+          "Defense": 70,
+          "Sp. Atk": 105,
+          "Sp. Def": 75,
+          "Speed": 40
+        },
+        "total": 460
       },
       {
         "name": "Mega Camerupt",
@@ -369,7 +585,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Sheer Force"
-        ]
+        ],
+        "stats": {
+          "HP": 70,
+          "Attack": 120,
+          "Defense": 100,
+          "Sp. Atk": 145,
+          "Sp. Def": 105,
+          "Speed": 20
+        },
+        "total": 560
       }
     ],
     "checked": "2026-10-05"
@@ -385,7 +610,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Overgrow",
           "Leaf Guard"
-        ]
+        ],
+        "stats": {
+          "HP": 80,
+          "Attack": 82,
+          "Defense": 100,
+          "Sp. Atk": 83,
+          "Sp. Def": 100,
+          "Speed": 80
+        },
+        "total": 525
       },
       {
         "name": "Mega Meganium",
@@ -395,7 +629,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Mega Sol"
-        ]
+        ],
+        "stats": {
+          "HP": 80,
+          "Attack": 92,
+          "Defense": 115,
+          "Sp. Atk": 143,
+          "Sp. Def": 115,
+          "Speed": 80
+        },
+        "total": 625
       }
     ],
     "checked": "2026-10-05"
@@ -413,7 +656,16 @@ const CHAMPIONS_INFO={
           "Synchronize",
           "Trace",
           "Telepathy"
-        ]
+        ],
+        "stats": {
+          "HP": 68,
+          "Attack": 65,
+          "Defense": 65,
+          "Sp. Atk": 125,
+          "Sp. Def": 115,
+          "Speed": 80
+        },
+        "total": 518
       },
       {
         "name": "Mega Gardevoir",
@@ -423,7 +675,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Pixilate"
-        ]
+        ],
+        "stats": {
+          "HP": 68,
+          "Attack": 85,
+          "Defense": 65,
+          "Sp. Atk": 165,
+          "Sp. Def": 135,
+          "Speed": 100
+        },
+        "total": 618
       }
     ],
     "checked": "2026-10-05"
@@ -441,7 +702,16 @@ const CHAMPIONS_INFO={
           "Keen Eye",
           "Sturdy",
           "Weak Armor"
-        ]
+        ],
+        "stats": {
+          "HP": 65,
+          "Attack": 80,
+          "Defense": 140,
+          "Sp. Atk": 40,
+          "Sp. Def": 70,
+          "Speed": 70
+        },
+        "total": 465
       },
       {
         "name": "Mega Skarmory",
@@ -451,7 +721,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Stalwart"
-        ]
+        ],
+        "stats": {
+          "HP": 65,
+          "Attack": 140,
+          "Defense": 110,
+          "Sp. Atk": 40,
+          "Sp. Def": 100,
+          "Speed": 110
+        },
+        "total": 565
       }
     ],
     "checked": "2026-10-05"
@@ -468,7 +747,16 @@ const CHAMPIONS_INFO={
           "Sap Sipper",
           "Hydration",
           "Gooey"
-        ]
+        ],
+        "stats": {
+          "HP": 90,
+          "Attack": 100,
+          "Defense": 70,
+          "Sp. Atk": 110,
+          "Sp. Def": 150,
+          "Speed": 80
+        },
+        "total": 600
       },
       {
         "name": "Hisuian Goodra",
@@ -480,7 +768,16 @@ const CHAMPIONS_INFO={
           "Sap Sipper",
           "Shell Armor",
           "Gooey"
-        ]
+        ],
+        "stats": {
+          "HP": 80,
+          "Attack": 100,
+          "Defense": 100,
+          "Sp. Atk": 110,
+          "Sp. Def": 150,
+          "Speed": 60
+        },
+        "total": 600
       }
     ],
     "checked": "2026-10-05"
@@ -497,7 +794,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Seed Sower",
           "Harvest"
-        ]
+        ],
+        "stats": {
+          "HP": 78,
+          "Attack": 69,
+          "Defense": 90,
+          "Sp. Atk": 125,
+          "Sp. Def": 109,
+          "Speed": 39
+        },
+        "total": 510
       }
     ],
     "checked": "2026-10-05"
@@ -514,7 +820,16 @@ const CHAMPIONS_INFO={
           "Cute Charm",
           "Magic Guard",
           "Unaware"
-        ]
+        ],
+        "stats": {
+          "HP": 95,
+          "Attack": 70,
+          "Defense": 73,
+          "Sp. Atk": 95,
+          "Sp. Def": 90,
+          "Speed": 60
+        },
+        "total": 483
       },
       {
         "name": "Mega Clefable",
@@ -524,7 +839,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Magic Bounce"
-        ]
+        ],
+        "stats": {
+          "HP": 95,
+          "Attack": 80,
+          "Defense": 93,
+          "Sp. Atk": 135,
+          "Sp. Def": 110,
+          "Speed": 70
+        },
+        "total": 583
       }
     ],
     "checked": "2026-10-05"
@@ -542,7 +866,16 @@ const CHAMPIONS_INFO={
           "Shed Skin",
           "Moxie",
           "Intimidate"
-        ]
+        ],
+        "stats": {
+          "HP": 65,
+          "Attack": 90,
+          "Defense": 115,
+          "Sp. Atk": 45,
+          "Sp. Def": 115,
+          "Speed": 58
+        },
+        "total": 488
       },
       {
         "name": "Mega Scrafty",
@@ -552,7 +885,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Intimidate"
-        ]
+        ],
+        "stats": {
+          "HP": 65,
+          "Attack": 130,
+          "Defense": 135,
+          "Sp. Atk": 55,
+          "Sp. Def": 135,
+          "Speed": 68
+        },
+        "total": 588
       }
     ],
     "checked": "2026-10-05"
@@ -568,7 +910,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Flash Fire",
           "Drought"
-        ]
+        ],
+        "stats": {
+          "HP": 73,
+          "Attack": 76,
+          "Defense": 75,
+          "Sp. Atk": 81,
+          "Sp. Def": 100,
+          "Speed": 100
+        },
+        "total": 505
       },
       {
         "name": "Alolan Ninetales",
@@ -579,7 +930,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Snow Cloak",
           "Snow Warning"
-        ]
+        ],
+        "stats": {
+          "HP": 73,
+          "Attack": 67,
+          "Defense": 75,
+          "Sp. Atk": 81,
+          "Sp. Def": 100,
+          "Speed": 109
+        },
+        "total": 505
       }
     ],
     "checked": "2026-10-05"
@@ -596,7 +956,16 @@ const CHAMPIONS_INFO={
           "Overcoat",
           "Magic Guard",
           "Regenerator"
-        ]
+        ],
+        "stats": {
+          "HP": 110,
+          "Attack": 65,
+          "Defense": 75,
+          "Sp. Atk": 125,
+          "Sp. Def": 85,
+          "Speed": 30
+        },
+        "total": 490
       }
     ],
     "checked": "2026-10-05"
@@ -612,7 +981,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Overgrow",
           "Grassy Surge"
-        ]
+        ],
+        "stats": {
+          "HP": 100,
+          "Attack": 125,
+          "Defense": 90,
+          "Sp. Atk": 60,
+          "Sp. Def": 70,
+          "Speed": 85
+        },
+        "total": 530
       }
     ],
     "checked": "2026-10-05"
@@ -630,7 +1008,16 @@ const CHAMPIONS_INFO={
           "Cud Chew",
           "Armor Tail",
           "Sap Sipper"
-        ]
+        ],
+        "stats": {
+          "HP": 120,
+          "Attack": 90,
+          "Defense": 70,
+          "Sp. Atk": 110,
+          "Sp. Def": 70,
+          "Speed": 60
+        },
+        "total": 520
       }
     ],
     "checked": "2026-10-05"
@@ -648,7 +1035,16 @@ const CHAMPIONS_INFO={
           "Prankster",
           "Frisk",
           "Pickpocket"
-        ]
+        ],
+        "stats": {
+          "HP": 95,
+          "Attack": 120,
+          "Defense": 65,
+          "Sp. Atk": 95,
+          "Sp. Def": 75,
+          "Speed": 60
+        },
+        "total": 510
       }
     ],
     "checked": "2026-10-05"
@@ -664,7 +1060,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Cute Charm",
           "Pixilate"
-        ]
+        ],
+        "stats": {
+          "HP": 95,
+          "Attack": 65,
+          "Defense": 65,
+          "Sp. Atk": 110,
+          "Sp. Def": 130,
+          "Speed": 60
+        },
+        "total": 525
       }
     ],
     "checked": "2026-10-05"
@@ -681,7 +1086,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Intimidate",
           "Moxie"
-        ]
+        ],
+        "stats": {
+          "HP": 95,
+          "Attack": 135,
+          "Defense": 80,
+          "Sp. Atk": 110,
+          "Sp. Def": 80,
+          "Speed": 100
+        },
+        "total": 600
       },
       {
         "name": "Mega Salamence",
@@ -691,7 +1105,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Aerilate"
-        ]
+        ],
+        "stats": {
+          "HP": 95,
+          "Attack": 145,
+          "Defense": 130,
+          "Sp. Atk": 120,
+          "Sp. Def": 90,
+          "Speed": 120
+        },
+        "total": 700
       }
     ],
     "checked": "2026-10-05"
@@ -708,7 +1131,16 @@ const CHAMPIONS_INFO={
           "Leaf Guard",
           "Queenly Majesty",
           "Sweet Veil"
-        ]
+        ],
+        "stats": {
+          "HP": 72,
+          "Attack": 120,
+          "Defense": 98,
+          "Sp. Atk": 50,
+          "Sp. Def": 98,
+          "Speed": 72
+        },
+        "total": 510
       }
     ],
     "checked": "2026-10-05"
@@ -723,7 +1155,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Zero to Hero"
-        ]
+        ],
+        "stats": {
+          "HP": 100,
+          "Attack": 70,
+          "Defense": 72,
+          "Sp. Atk": 53,
+          "Sp. Def": 62,
+          "Speed": 100
+        },
+        "total": 457
       },
       {
         "name": "Palafin (Hero)",
@@ -732,7 +1173,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Zero to Hero"
-        ]
+        ],
+        "stats": {
+          "HP": 100,
+          "Attack": 160,
+          "Defense": 97,
+          "Sp. Atk": 106,
+          "Sp. Def": 87,
+          "Speed": 100
+        },
+        "total": 650
       }
     ],
     "checked": "2026-10-05"
@@ -748,7 +1198,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Disguise"
-        ]
+        ],
+        "stats": {
+          "HP": 55,
+          "Attack": 90,
+          "Defense": 80,
+          "Sp. Atk": 50,
+          "Sp. Def": 105,
+          "Speed": 96
+        },
+        "total": 476
       }
     ],
     "checked": "2026-10-05"
@@ -765,7 +1224,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Sand Veil",
           "Rough Skin"
-        ]
+        ],
+        "stats": {
+          "HP": 108,
+          "Attack": 130,
+          "Defense": 95,
+          "Sp. Atk": 80,
+          "Sp. Def": 85,
+          "Speed": 102
+        },
+        "total": 600
       },
       {
         "name": "Mega Garchomp",
@@ -775,7 +1243,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Sand Force"
-        ]
+        ],
+        "stats": {
+          "HP": 108,
+          "Attack": 170,
+          "Defense": 115,
+          "Sp. Atk": 120,
+          "Sp. Def": 95,
+          "Speed": 92
+        },
+        "total": 700
       },
       {
         "name": "Mega Garchomp Z",
@@ -784,7 +1261,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Levitate"
-        ]
+        ],
+        "stats": {
+          "HP": 108,
+          "Attack": 130,
+          "Defense": 85,
+          "Sp. Atk": 141,
+          "Sp. Def": 85,
+          "Speed": 151
+        },
+        "total": 700
       }
     ],
     "checked": "2026-10-05"
@@ -800,7 +1286,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Good as Gold"
-        ]
+        ],
+        "stats": {
+          "HP": 87,
+          "Attack": 60,
+          "Defense": 95,
+          "Sp. Atk": 133,
+          "Sp. Def": 91,
+          "Speed": 84
+        },
+        "total": 550
       }
     ],
     "checked": "2026-10-05"
@@ -818,7 +1313,16 @@ const CHAMPIONS_INFO={
           "Hyper Cutter",
           "Intimidate",
           "Sheer Force"
-        ]
+        ],
+        "stats": {
+          "HP": 50,
+          "Attack": 85,
+          "Defense": 85,
+          "Sp. Atk": 55,
+          "Sp. Def": 55,
+          "Speed": 50
+        },
+        "total": 380
       },
       {
         "name": "Mega Mawile",
@@ -828,7 +1332,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Huge Power"
-        ]
+        ],
+        "stats": {
+          "HP": 50,
+          "Attack": 105,
+          "Defense": 125,
+          "Sp. Atk": 55,
+          "Sp. Def": 95,
+          "Speed": 50
+        },
+        "total": 480
       }
     ],
     "checked": "2026-10-05"
@@ -845,7 +1358,16 @@ const CHAMPIONS_INFO={
           "Marvel Scale",
           "Competitive",
           "Cute Charm"
-        ]
+        ],
+        "stats": {
+          "HP": 95,
+          "Attack": 60,
+          "Defense": 79,
+          "Sp. Atk": 100,
+          "Sp. Def": 125,
+          "Speed": 81
+        },
+        "total": 540
       }
     ],
     "checked": "2026-10-05"
@@ -861,7 +1383,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Static",
           "Lightning Rod"
-        ]
+        ],
+        "stats": {
+          "HP": 60,
+          "Attack": 90,
+          "Defense": 55,
+          "Sp. Atk": 90,
+          "Sp. Def": 80,
+          "Speed": 110
+        },
+        "total": 485
       },
       {
         "name": "Alolan Raichu",
@@ -871,7 +1402,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Surge Surfer"
-        ]
+        ],
+        "stats": {
+          "HP": 60,
+          "Attack": 85,
+          "Defense": 50,
+          "Sp. Atk": 95,
+          "Sp. Def": 85,
+          "Speed": 110
+        },
+        "total": 485
       },
       {
         "name": "Mega Raichu X",
@@ -880,7 +1420,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Electric Surge"
-        ]
+        ],
+        "stats": {
+          "HP": 60,
+          "Attack": 135,
+          "Defense": 95,
+          "Sp. Atk": 90,
+          "Sp. Def": 95,
+          "Speed": 110
+        },
+        "total": 585
       },
       {
         "name": "Mega Raichu Y",
@@ -889,7 +1438,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "No Guard"
-        ]
+        ],
+        "stats": {
+          "HP": 60,
+          "Attack": 100,
+          "Defense": 55,
+          "Sp. Atk": 160,
+          "Sp. Def": 80,
+          "Speed": 130
+        },
+        "total": 585
       }
     ],
     "checked": "2026-10-05"
@@ -907,7 +1465,16 @@ const CHAMPIONS_INFO={
           "Limber",
           "Unburden",
           "Mold Breaker"
-        ]
+        ],
+        "stats": {
+          "HP": 78,
+          "Attack": 92,
+          "Defense": 75,
+          "Sp. Atk": 74,
+          "Sp. Def": 63,
+          "Speed": 118
+        },
+        "total": 500
       },
       {
         "name": "Mega Hawlucha",
@@ -917,7 +1484,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "No Guard"
-        ]
+        ],
+        "stats": {
+          "HP": 78,
+          "Attack": 137,
+          "Defense": 100,
+          "Sp. Atk": 74,
+          "Sp. Def": 93,
+          "Speed": 118
+        },
+        "total": 600
       }
     ],
     "checked": "2026-10-05"
@@ -934,7 +1510,16 @@ const CHAMPIONS_INFO={
         "abilities": [
           "Natural Cure",
           "Cloud Nine"
-        ]
+        ],
+        "stats": {
+          "HP": 75,
+          "Attack": 70,
+          "Defense": 90,
+          "Sp. Atk": 70,
+          "Sp. Def": 105,
+          "Speed": 80
+        },
+        "total": 490
       },
       {
         "name": "Mega Altaria",
@@ -944,7 +1529,16 @@ const CHAMPIONS_INFO={
         ],
         "abilities": [
           "Pixilate"
-        ]
+        ],
+        "stats": {
+          "HP": 75,
+          "Attack": 110,
+          "Defense": 110,
+          "Sp. Atk": 110,
+          "Sp. Def": 105,
+          "Speed": 80
+        },
+        "total": 590
       }
     ],
     "checked": "2026-10-05"
@@ -961,7 +1555,16 @@ const CHAMPIONS_INFO={
           "Intimidate",
           "Flash Fire",
           "Justified"
-        ]
+        ],
+        "stats": {
+          "HP": 90,
+          "Attack": 110,
+          "Defense": 80,
+          "Sp. Atk": 100,
+          "Sp. Def": 80,
+          "Speed": 95
+        },
+        "total": 555
       },
       {
         "name": "Hisuian Arcanine",
@@ -973,7 +1576,16 @@ const CHAMPIONS_INFO={
           "Intimidate",
           "Flash Fire",
           "Rock Head"
-        ]
+        ],
+        "stats": {
+          "HP": 95,
+          "Attack": 115,
+          "Defense": 80,
+          "Sp. Atk": 95,
+          "Sp. Def": 80,
+          "Speed": 90
+        },
+        "total": 555
       }
     ],
     "checked": "2026-10-05"
