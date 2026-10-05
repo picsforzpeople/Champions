@@ -1591,3 +1591,1258 @@ const CHAMPIONS_INFO={
     "checked": "2026-10-05"
   }
 };
+
+// Current personal builds transcribed from the full 40 screenshot batch.
+const SCREENSHOT_BUILDS={
+  "Arcanine": {
+    "nature": "Adamant",
+    "ability": "Intimidate",
+    "stats": {
+      "HP": 167,
+      "Attack": 178,
+      "Defense": 100,
+      "Sp. Atk": 108,
+      "Sp. Def": 100,
+      "Speed": 147
+    },
+    "training": {
+      "HP": 2,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 32
+    },
+    "moves": [
+      "Flare Blitz",
+      "Psychic Fangs",
+      "Extreme Speed",
+      "Wild Charge"
+    ],
+    "gender": "Male",
+    "form": "Arcanine",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Altaria": {
+    "nature": "Modest",
+    "ability": "Cloud Nine",
+    "stats": {
+      "HP": 182,
+      "Attack": 81,
+      "Defense": 110,
+      "Sp. Atk": 101,
+      "Sp. Def": 125,
+      "Speed": 132
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Atk": 2,
+      "Sp. Def": 0,
+      "Speed": 32
+    },
+    "moves": [
+      "Hyper Voice",
+      "Roost",
+      "Will-O-Wisp",
+      "Tailwind"
+    ],
+    "gender": "Female",
+    "form": "Altaria",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Hawlucha": {
+    "nature": "Adamant",
+    "ability": "Mold Breaker",
+    "stats": {
+      "HP": 155,
+      "Attack": 158,
+      "Defense": 95,
+      "Sp. Atk": 84,
+      "Sp. Def": 83,
+      "Speed": 170
+    },
+    "training": {
+      "HP": 2,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 32
+    },
+    "moves": [
+      "High Jump Kick",
+      "Dual Wingbeat",
+      "Stone Edge",
+      "Drain Punch"
+    ],
+    "gender": "Male",
+    "form": "Hawlucha",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Raichu": {
+    "nature": "Timid",
+    "ability": "Lightning Rod",
+    "stats": {
+      "HP": 137,
+      "Attack": 99,
+      "Defense": 75,
+      "Sp. Atk": 142,
+      "Sp. Def": 100,
+      "Speed": 178
+    },
+    "training": {
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Atk": 32,
+      "Sp. Def": 0,
+      "Speed": 32
+    },
+    "moves": [
+      "Rising Voltage",
+      "Surf",
+      "Encore",
+      "Electroweb"
+    ],
+    "gender": "Male",
+    "form": "Raichu",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Milotic": {
+    "nature": "Bold",
+    "ability": "Marvel Scale",
+    "stats": {
+      "HP": 202,
+      "Attack": 72,
+      "Defense": 144,
+      "Sp. Atk": 120,
+      "Sp. Def": 147,
+      "Speed": 101
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 32,
+      "Sp. Atk": 0,
+      "Sp. Def": 2,
+      "Speed": 0
+    },
+    "moves": [
+      "Scald",
+      "Protect",
+      "Life Dew",
+      "Dragon Cheer"
+    ],
+    "gender": "Female",
+    "form": "Milotic",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Mawile": {
+    "nature": "Naughty",
+    "ability": "Intimidate",
+    "stats": {
+      "HP": 157,
+      "Attack": 150,
+      "Defense": 107,
+      "Sp. Atk": 75,
+      "Sp. Def": 67,
+      "Speed": 70
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 2,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Iron Head",
+      "Baton Pass",
+      "Swords Dance",
+      "Swagger"
+    ],
+    "gender": "Male",
+    "form": "Mawile",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Garchomp": {
+    "nature": "Adamant",
+    "ability": "Rough Skin",
+    "stats": {
+      "HP": 185,
+      "Attack": 200,
+      "Defense": 115,
+      "Sp. Atk": 90,
+      "Sp. Def": 105,
+      "Speed": 154
+    },
+    "training": {
+      "HP": 2,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 32
+    },
+    "moves": [
+      "Earthquake",
+      "Dragon Tail",
+      "Poison Jab",
+      "Protect"
+    ],
+    "gender": "Male",
+    "form": "Garchomp",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Mimikyu": {
+    "nature": "Careful",
+    "ability": "Disguise",
+    "stats": {
+      "HP": 162,
+      "Attack": 142,
+      "Defense": 100,
+      "Sp. Atk": 63,
+      "Sp. Def": 137,
+      "Speed": 118
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 2
+    },
+    "moves": [
+      "Play Rough",
+      "Phantom Force",
+      "Charm",
+      "Night Shade"
+    ],
+    "gender": "Female",
+    "form": "Disguised Form",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Gholdengo": {
+    "nature": "Modest",
+    "ability": "Good as Gold",
+    "stats": {
+      "HP": 194,
+      "Attack": 72,
+      "Defense": 115,
+      "Sp. Atk": 203,
+      "Sp. Def": 113,
+      "Speed": 104
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Atk": 32,
+      "Sp. Def": 2,
+      "Speed": 0
+    },
+    "moves": [
+      "Make It Rain",
+      "Memento",
+      "Shadow Ball",
+      "Protect"
+    ],
+    "gender": "Genderless",
+    "form": "Gholdengo",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Palafin": {
+    "nature": "Adamant",
+    "ability": "Zero to Hero",
+    "stats": {
+      "HP": 207,
+      "Attack": 134,
+      "Defense": 92,
+      "Sp. Atk": 65,
+      "Sp. Def": 82,
+      "Speed": 122
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 2
+    },
+    "moves": [
+      "Jet Punch",
+      "Throat Chop",
+      "Flip Turn",
+      "Protect"
+    ],
+    "gender": "Male",
+    "form": "Palafin (Zero)",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Tsareena": {
+    "nature": "Adamant",
+    "ability": "Queenly Majesty",
+    "stats": {
+      "HP": 179,
+      "Attack": 189,
+      "Defense": 118,
+      "Sp. Atk": 63,
+      "Sp. Def": 120,
+      "Speed": 92
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 2,
+      "Speed": 0
+    },
+    "moves": [
+      "Trop Kick",
+      "U-turn",
+      "Light Screen",
+      "Solar Blade"
+    ],
+    "gender": "Female",
+    "form": "Tsareena",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Salamence": {
+    "nature": "Adamant",
+    "ability": "Moxie",
+    "stats": {
+      "HP": 202,
+      "Attack": 205,
+      "Defense": 102,
+      "Sp. Atk": 117,
+      "Sp. Def": 100,
+      "Speed": 120
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 2,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Dual Wingbeat",
+      "Temper Flare",
+      "Dragon Claw",
+      "Protect"
+    ],
+    "gender": "Male",
+    "form": "Salamence",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Grimmsnarl": {
+    "nature": "Adamant",
+    "ability": "Prankster",
+    "stats": {
+      "HP": 202,
+      "Attack": 189,
+      "Defense": 85,
+      "Sp. Atk": 103,
+      "Sp. Def": 97,
+      "Speed": 80
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 2,
+      "Speed": 0
+    },
+    "moves": [
+      "Fake Out",
+      "Sucker Punch",
+      "Reflect",
+      "Parting Shot"
+    ],
+    "gender": "Male",
+    "form": "Grimmsnarl",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Sylveon": {
+    "nature": "Hasty",
+    "ability": "Pixilate",
+    "stats": {
+      "HP": 170,
+      "Attack": 85,
+      "Defense": 76,
+      "Sp. Atk": 162,
+      "Sp. Def": 152,
+      "Speed": 123
+    },
+    "training": {
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Atk": 32,
+      "Sp. Def": 2,
+      "Speed": 32
+    },
+    "moves": [
+      "Hyper Voice",
+      "Skill Swap",
+      "Mystical Fire",
+      "Light Screen"
+    ],
+    "gender": "Male",
+    "form": "Sylveon",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Farigiraf": {
+    "nature": "Modest",
+    "ability": "Armor Tail",
+    "stats": {
+      "HP": 227,
+      "Attack": 99,
+      "Defense": 108,
+      "Sp. Atk": 143,
+      "Sp. Def": 106,
+      "Speed": 80
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 18,
+      "Sp. Atk": 0,
+      "Sp. Def": 16,
+      "Speed": 0
+    },
+    "moves": [
+      "Hyper Voice",
+      "Trick Room",
+      "Wish",
+      "Ally Switch"
+    ],
+    "gender": "Male",
+    "form": "Farigiraf",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Rillaboom": {
+    "nature": "Adamant",
+    "ability": "Grassy Surge",
+    "stats": {
+      "HP": 207,
+      "Attack": 194,
+      "Defense": 110,
+      "Sp. Atk": 72,
+      "Sp. Def": 90,
+      "Speed": 107
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 2
+    },
+    "moves": [
+      "Drum Beating",
+      "High Horsepower",
+      "Brick Break",
+      "U-turn"
+    ],
+    "gender": "Male",
+    "form": "Rillaboom",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Reuniclus": {
+    "nature": "Sassy",
+    "ability": "Magic Guard",
+    "stats": {
+      "HP": 217,
+      "Attack": 85,
+      "Defense": 111,
+      "Sp. Atk": 147,
+      "Sp. Def": 133,
+      "Speed": 45
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 16,
+      "Sp. Atk": 2,
+      "Sp. Def": 16,
+      "Speed": 0
+    },
+    "moves": [
+      "Expanding Force",
+      "Energy Ball",
+      "Recover",
+      "Sunny Day"
+    ],
+    "gender": "Male",
+    "form": "Reuniclus",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Ninetales": {
+    "nature": "Modest",
+    "ability": "Snow Warning",
+    "stats": {
+      "HP": 180,
+      "Attack": 78,
+      "Defense": 95,
+      "Sp. Atk": 113,
+      "Sp. Def": 120,
+      "Speed": 161
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Atk": 2,
+      "Sp. Def": 0,
+      "Speed": 32
+    },
+    "moves": [
+      "Blizzard",
+      "Dazzling Gleam",
+      "Aurora Veil",
+      "Protect"
+    ],
+    "gender": "Female",
+    "form": "Alolan Ninetales",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Scrafty": {
+    "nature": "Adamant",
+    "ability": "Intimidate",
+    "stats": {
+      "HP": 172,
+      "Attack": 156,
+      "Defense": 135,
+      "Sp. Atk": 58,
+      "Sp. Def": 135,
+      "Speed": 80
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 2
+    },
+    "moves": [
+      "Knock Off",
+      "Rock Slide",
+      "Drain Punch",
+      "Fake Out"
+    ],
+    "gender": "Female",
+    "form": "Scrafty",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Clefable": {
+    "nature": "Quiet",
+    "ability": "Unaware",
+    "stats": {
+      "HP": 202,
+      "Attack": 90,
+      "Defense": 125,
+      "Sp. Atk": 126,
+      "Sp. Def": 112,
+      "Speed": 72
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 32,
+      "Sp. Atk": 0,
+      "Sp. Def": 2,
+      "Speed": 0
+    },
+    "moves": [
+      "Helping Hand",
+      "Charm",
+      "Life Dew",
+      "Follow Me"
+    ],
+    "gender": "Female",
+    "form": "Clefable",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Arboliva": {
+    "nature": "Modest",
+    "ability": "Seed Sower",
+    "stats": {
+      "HP": 185,
+      "Attack": 80,
+      "Defense": 132,
+      "Sp. Atk": 159,
+      "Sp. Def": 141,
+      "Speed": 59
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 22,
+      "Sp. Atk": 0,
+      "Sp. Def": 12,
+      "Speed": 0
+    },
+    "moves": [
+      "Strength Sap",
+      "Protect",
+      "Pollen Puff",
+      "Terrain Pulse"
+    ],
+    "gender": "Female",
+    "form": "Arboliva",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Goodra": {
+    "nature": "Relaxed",
+    "ability": "Shell Armor",
+    "stats": {
+      "HP": 187,
+      "Attack": 120,
+      "Defense": 134,
+      "Sp. Atk": 162,
+      "Sp. Def": 170,
+      "Speed": 72
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 2,
+      "Sp. Atk": 32,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Ice Beam",
+      "Shelter",
+      "Body Press",
+      "Flash Cannon"
+    ],
+    "gender": "Female",
+    "form": "Hisuian Goodra",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Skarmory": {
+    "nature": "Adamant",
+    "ability": "Weak Armor",
+    "stats": {
+      "HP": 140,
+      "Attack": 145,
+      "Defense": 160,
+      "Sp. Atk": 54,
+      "Sp. Def": 92,
+      "Speed": 122
+    },
+    "training": {
+      "HP": 0,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 2,
+      "Speed": 32
+    },
+    "moves": [
+      "Brave Bird",
+      "Drill Run",
+      "Taunt",
+      "Whirlwind"
+    ],
+    "gender": "Female",
+    "form": "Skarmory",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Gardevoir": {
+    "nature": "Relaxed",
+    "ability": "Synchronize",
+    "stats": {
+      "HP": 175,
+      "Attack": 85,
+      "Defense": 128,
+      "Sp. Atk": 145,
+      "Sp. Def": 137,
+      "Speed": 90
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 32,
+      "Sp. Atk": 0,
+      "Sp. Def": 2,
+      "Speed": 0
+    },
+    "moves": [
+      "Hyper Voice",
+      "Psychic Terrain",
+      "Protect",
+      "Life Dew"
+    ],
+    "gender": "Female",
+    "form": "Gardevoir",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Meganium": {
+    "nature": "Modest",
+    "ability": "Leaf Guard",
+    "stats": {
+      "HP": 187,
+      "Attack": 91,
+      "Defense": 120,
+      "Sp. Atk": 148,
+      "Sp. Def": 120,
+      "Speed": 100
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Atk": 32,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Solar Beam",
+      "Knock Off",
+      "Dazzling Gleam",
+      "Weather Ball"
+    ],
+    "gender": "Male",
+    "form": "Meganium",
+    "status": "Visitor from Pok\u00e9mon HOME",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Camerupt": {
+    "nature": "Quiet",
+    "ability": "Solid Rock",
+    "stats": {
+      "HP": 177,
+      "Attack": 120,
+      "Defense": 92,
+      "Sp. Atk": 172,
+      "Sp. Def": 95,
+      "Speed": 54
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 2,
+      "Sp. Atk": 32,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Earth Power",
+      "Smack Down",
+      "Eruption",
+      "Lash Out"
+    ],
+    "gender": "Female",
+    "form": "Camerupt",
+    "status": "Visitor from Pok\u00e9mon HOME",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Kangaskhan": {
+    "nature": "Adamant",
+    "ability": "Scrappy",
+    "stats": {
+      "HP": 212,
+      "Attack": 128,
+      "Defense": 132,
+      "Sp. Atk": 54,
+      "Sp. Def": 100,
+      "Speed": 110
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 2,
+      "Defense": 32,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Facade",
+      "Drain Punch",
+      "Last Resort",
+      "Sucker Punch"
+    ],
+    "gender": "Female",
+    "form": "Kangaskhan",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Charizard": {
+    "nature": "Sassy",
+    "ability": "Solar Power",
+    "stats": {
+      "HP": 153,
+      "Attack": 104,
+      "Defense": 130,
+      "Sp. Atk": 129,
+      "Sp. Def": 150,
+      "Speed": 108
+    },
+    "training": {
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 32,
+      "Sp. Atk": 0,
+      "Sp. Def": 32,
+      "Speed": 0
+    },
+    "moves": [
+      "Flamethrower",
+      "Dragon Claw",
+      "Roost",
+      "Dig"
+    ],
+    "gender": "Male",
+    "form": "Charizard",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Volcarona": {
+    "nature": "Bold",
+    "ability": "Swarm",
+    "stats": {
+      "HP": 162,
+      "Attack": 72,
+      "Defense": 128,
+      "Sp. Atk": 187,
+      "Sp. Def": 125,
+      "Speed": 120
+    },
+    "training": {
+      "HP": 2,
+      "Attack": 0,
+      "Defense": 32,
+      "Sp. Atk": 32,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Fiery Dance",
+      "Hyper Beam",
+      "Bug Buzz",
+      "Giga Drain"
+    ],
+    "gender": "Male",
+    "form": "Volcarona",
+    "status": "Trial \u2014 4 days remaining at capture",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Snorlax": {
+    "nature": "Brave",
+    "ability": "Gluttony",
+    "stats": {
+      "HP": 267,
+      "Attack": 178,
+      "Defense": 87,
+      "Sp. Atk": 85,
+      "Sp. Def": 130,
+      "Speed": 45
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 2,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Body Slam",
+      "Recycle",
+      "Supercell Slam",
+      "Belly Drum"
+    ],
+    "gender": "Male",
+    "form": "Snorlax",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Cofagrigus": {
+    "nature": "Bold",
+    "ability": "Mummy",
+    "stats": {
+      "HP": 133,
+      "Attack": 63,
+      "Defense": 216,
+      "Sp. Atk": 147,
+      "Sp. Def": 127,
+      "Speed": 50
+    },
+    "training": {
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 32,
+      "Sp. Atk": 32,
+      "Sp. Def": 2,
+      "Speed": 0
+    },
+    "moves": [
+      "Shadow Ball",
+      "Dark Pulse",
+      "Rest",
+      "Curse"
+    ],
+    "gender": "Male",
+    "form": "Cofagrigus",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Froslass": {
+    "nature": "Modest",
+    "ability": "Snow Cloak",
+    "stats": {
+      "HP": 145,
+      "Attack": 90,
+      "Defense": 90,
+      "Sp. Atk": 145,
+      "Sp. Def": 92,
+      "Speed": 162
+    },
+    "training": {
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Sp. Atk": 32,
+      "Sp. Def": 2,
+      "Speed": 32
+    },
+    "moves": [
+      "Blizzard",
+      "Reflect",
+      "Pain Split",
+      "Taunt"
+    ],
+    "gender": "Female",
+    "form": "Froslass",
+    "status": "Trial \u2014 6 days remaining at capture",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Falinks": {
+    "nature": "Careful",
+    "ability": "Defiant",
+    "stats": {
+      "HP": 140,
+      "Attack": 152,
+      "Defense": 122,
+      "Sp. Atk": 81,
+      "Sp. Def": 123,
+      "Speed": 95
+    },
+    "training": {
+      "HP": 0,
+      "Attack": 32,
+      "Defense": 2,
+      "Sp. Atk": 0,
+      "Sp. Def": 32,
+      "Speed": 0
+    },
+    "moves": [
+      "Close Combat",
+      "Brick Break",
+      "Poison Jab",
+      "Endeavor"
+    ],
+    "gender": "Genderless",
+    "form": "Falinks",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Primarina": {
+    "nature": "Quiet",
+    "ability": "Liquid Voice",
+    "stats": {
+      "HP": 187,
+      "Attack": 94,
+      "Defense": 126,
+      "Sp. Atk": 160,
+      "Sp. Def": 136,
+      "Speed": 72
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 32,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Life Dew",
+      "Psychic Noise",
+      "Hyper Voice",
+      "Moonblast"
+    ],
+    "gender": "Male",
+    "form": "Primarina",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Skeledirge": {
+    "nature": "Quiet",
+    "ability": "Unaware",
+    "stats": {
+      "HP": 211,
+      "Attack": 95,
+      "Defense": 122,
+      "Sp. Atk": 178,
+      "Sp. Def": 95,
+      "Speed": 77
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 0,
+      "Defense": 2,
+      "Sp. Atk": 32,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Torch Song",
+      "Flame Charge",
+      "Snarl",
+      "Earth Power"
+    ],
+    "gender": "Male",
+    "form": "Skeledirge",
+    "status": "Trial \u2014 6 days remaining at capture",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Banette": {
+    "nature": "Brave",
+    "ability": "Cursed Body",
+    "stats": {
+      "HP": 171,
+      "Attack": 183,
+      "Defense": 85,
+      "Sp. Atk": 103,
+      "Sp. Def": 85,
+      "Speed": 76
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 2,
+      "Speed": 0
+    },
+    "moves": [
+      "Poltergeist",
+      "Encore",
+      "Sucker Punch",
+      "Trick Room"
+    ],
+    "gender": "Male",
+    "form": "Banette",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Dragonite": {
+    "nature": "Brave",
+    "ability": "Multiscale",
+    "stats": {
+      "HP": 198,
+      "Attack": 204,
+      "Defense": 117,
+      "Sp. Atk": 120,
+      "Sp. Def": 120,
+      "Speed": 90
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 2,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Ice Spinner",
+      "Protect",
+      "Fire Punch",
+      "Breaking Swipe"
+    ],
+    "gender": "Female",
+    "form": "Dragonite",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Mudsdale": {
+    "nature": "Adamant",
+    "ability": "Stamina",
+    "stats": {
+      "HP": 207,
+      "Attack": 194,
+      "Defense": 122,
+      "Sp. Atk": 67,
+      "Sp. Def": 105,
+      "Speed": 55
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 2,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "High Horsepower",
+      "Heavy Slam",
+      "Rock Slide",
+      "Body Press"
+    ],
+    "gender": "Female",
+    "form": "Mudsdale",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Indeedee": {
+    "nature": "Careful",
+    "ability": "Inner Focus",
+    "stats": {
+      "HP": 135,
+      "Attack": 117,
+      "Defense": 75,
+      "Sp. Atk": 112,
+      "Sp. Def": 161,
+      "Speed": 117
+    },
+    "training": {
+      "HP": 0,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 32,
+      "Speed": 2
+    },
+    "moves": [
+      "Trick Room",
+      "Encore",
+      "Psychic Terrain",
+      "Terrain Pulse"
+    ],
+    "gender": "Male",
+    "form": "Indeedee (Male)",
+    "status": "Trial \u2014 6 days remaining at capture",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  },
+  "Scizor": {
+    "nature": "Adamant",
+    "ability": "Technician",
+    "stats": {
+      "HP": 177,
+      "Attack": 200,
+      "Defense": 120,
+      "Sp. Atk": 67,
+      "Sp. Def": 100,
+      "Speed": 85
+    },
+    "training": {
+      "HP": 32,
+      "Attack": 32,
+      "Defense": 0,
+      "Sp. Atk": 0,
+      "Sp. Def": 0,
+      "Speed": 0
+    },
+    "moves": [
+      "Bullet Punch",
+      "Pounce",
+      "Double Hit",
+      "Close Combat"
+    ],
+    "gender": "Female",
+    "form": "Scizor",
+    "status": "Permanently recruited",
+    "confirmed": "2026-10-05",
+    "item": "Not confirmed \u2014 not shown in screenshot"
+  }
+};
+
+for (const m of ROSTER) {
+ const current=SCREENSHOT_BUILDS[m.name], previous=BUILDS[m.name];
+ if(previous) current.history=[{...previous, label:"Earlier recorded build (superseded by screenshot)"}];
+ BUILDS[m.name]=current;
+ m.status=current.status;
+ m.form=current.form;
+ m.gender=current.gender;
+ if(m.name==="Ninetales") {m.type="Ice / Fairy";m.sprite="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10104.png";}
+ if(m.name==="Goodra") {m.type="Steel / Dragon";m.sprite="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10242.png";}
+}
